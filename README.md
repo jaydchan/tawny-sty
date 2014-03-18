@@ -1,7 +1,7 @@
 tawny-sty
 =========
 
-Associated LaTeX style files for the automatic highlighting of Clojure, Tawny-OWL and tawny-karyotype for the listings package.
+Associated LaTeX style files for the automatic highlighting of Clojure, [Tawny-OWL](https://github.com/phillord/tawny-owl) and [tawny-karyotype](https://github.com/jaydchan/tawny-karyotype) for the listings package.
 
 ## Author
 
